@@ -54,6 +54,11 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "id": 12,
+      "quote": "My Bed is Like a Little Boat",
+      "author": "Jocelyn Hagen"
     }
   ],
   "likes": [
@@ -66,6 +71,16 @@
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "id": 3,
+      "quoteId": 12,
+      "createdAt": 1724277402
+    },
+    {
+      "id": 4,
+      "quoteId": 12,
+      "createdAt": 1724277403
     }
   ]
 }
